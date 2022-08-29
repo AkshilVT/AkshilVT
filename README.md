@@ -14,6 +14,8 @@ I am a passionate young developer from Gujarat, India. Here's what you should kn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshilVT&langs_count=6&layout=compact&theme=tokyonight)](https://www.akshilvthumar.social)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkshilVT&theme=tokyonight)](https://www.akshilvthumar.social)
+
 <img src="https://github-profile-trophy.vercel.app/?username=AkshilVT&margin-w=5&theme=radical">
 
 ### Contact Me
